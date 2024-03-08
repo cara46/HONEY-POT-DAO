@@ -24,7 +24,6 @@ Able to test the script functions working in this way.
 - Run `yarn ts-node`
 
 
-
 ## Features
 
 ### As a Smart Contract Owner
